@@ -1,27 +1,25 @@
-# Projet FAR (Fondamentaux des Applications Réparties)
+1st year project in **C** language at Polytech Montpellier. Carried out by [Romain Frezier](https://github.com/romainfrezier) and [Etienne Tillier](https://github.com/etienne-tillier).
 
----
+## 🎯 Objective
 
-Projet en **langage C** de 1ère année de cycle ingénieur à Polytech Montpellier. Réalisé par [Romain Frezier](https://github.com/romainfrezier) et [Etienne Tillier](https://github.com/etienne-tillier).
+The aim of this project is to implement a distributed application using the concepts seen in class. The application must consist of a server and a client. The server must be able to handle several clients simultaneously. The client must be able to communicate with the server, sending requests and receiving responses.
 
-## 🎯 Objectif
+## 📨 Purpose
 
-Le but de ce projet est de mettre en place une application répartie en utilisant les concepts vus en cours. L'application doit être composée d'un serveur et d'un client. Le serveur doit être capable de gérer plusieurs clients simultanément. Le client doit pouvoir communiquer avec le serveur pour lui envoyer des requêtes et recevoir des réponses.
-
-## 📨 Objet
-
-Réalisation d'une messagerie sur un réseau local en langage C en binôme. Le projet s'est déroulé sous forme de sprint, dans lequel certaines fonctionnalités étaient imposées, et un livrable était à rendre à la fin de chaque sprint. Le dernier sprint nous a laissé le choix sur les fonctionnalités que nous souhaitions implémenter.
+Implementation of a messaging system on a local network in C language in pairs. The project took the form of a sprint, in which certain functionalities were imposed, and a deliverable was due at the end of each sprint. The last sprint left us free to choose which functionalities we wanted to implement.
 
 ## 🚀 Run
 
-Pour lancer le serveur, il faut se placer dans le dossier du serveur, et éxecuter le script `scriptServeur.sh` avec la commande `./scriptServeur.sh`.
+To launch the server, go to the server folder and run the script `scriptServeur.sh` with the command `./scriptServeur.sh`.
 
-Pour lancer le client, il faut se placer dans le dossier du client, et éxecuter le script `scriptClient.sh` avec en paramètre l'address IP du serveur. Par exemple : `./scriptClient.sh XXX.XXX.XXX.XXX`.
+To launch the client, go to the client folder and execute the `scriptClient.sh` script, with the server's IP address as parameter. For example: `./scriptClient.sh XXX.XXX.XXX.XXX`.
 
-## 🔑 Mots clés
+## 🔑 Keywords
 
 C, Sockets, Threads, Git
 
 ---
 
-© 2022 - Romain Frezier & Etienne Tillier - Polytech Montpellier
+2022 - Romain Frezier & Etienne Tillier - Polytech Montpellier
+
+Translated with www.DeepL.com/Translator (free version)
