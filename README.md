@@ -1,3 +1,7 @@
+# Projet FAR (Fondamentaux des Applications Réparties)
+
+---
+
 1st year project in **C** language at Polytech Montpellier. Carried out by [Romain Frezier](https://github.com/romainfrezier) and [Etienne Tillier](https://github.com/etienne-tillier).
 
 ## 🎯 Objective
@@ -21,5 +25,3 @@ C, Sockets, Threads, Git
 ---
 
 2022 - Romain Frezier & Etienne Tillier - Polytech Montpellier
-
-Translated with www.DeepL.com/Translator (free version)
