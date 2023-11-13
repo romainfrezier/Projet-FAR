@@ -1,0 +1,9 @@
+[submodule "Projet-FAR-Client"]
+	path = Projet-FAR-Client
+	url = https://github.com/romainfrezier/Projet-FAR-Client
+[submodule "Projet-FAR-Server"]
+	path = Projet-FAR-Server
+	url = https://github.com/romainfrezier/Projet-FAR-Server
+[submodule "Projet-FAR-Doc"]
+	path = Projet-FAR-Doc
+	url = https://github.com/romainfrezier/Projet-FAR-Doc
